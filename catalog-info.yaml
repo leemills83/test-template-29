@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-template-29"
+  description: "demo"
+  annotations:
+    github.com/project-slug: leemills83/test-template-29
+    backstage.io/techdocs-ref: url:https://github.com/leemills83/test-template-29
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "leemills83"
